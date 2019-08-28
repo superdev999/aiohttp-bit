@@ -1,0 +1,5 @@
+customer_records:
+- product_name: bitcoin
+  bitcoin_rpc_address: localhost:18332
+  bitcoin_rpc_username: testuser012
+  bitcoin_rpc_password: testuser012
